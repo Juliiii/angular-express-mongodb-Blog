@@ -1,16 +1,16 @@
-##What is it
+## What is it
 It is a homework of me , a student in SYSU
 ##Technology Stack
 + Angular 1.x
 + Express
 + Mongodb
 + Node.js
-##How to use
+## How to use
 + <code>npm install</code>
 + ensure you have open mongodb
 + <code>npm start</code>
 
-##BTW
+## BTW
 + This project have some problems, but i think i have no time to solve, hope someone helps me
 + This project have some disadvantages, such as not following the restful api, not using es6 and not using the gulp or webpack to deal with the font-end and so on
 ## Surprise
