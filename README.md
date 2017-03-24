@@ -1,6 +1,6 @@
 ## What is it
 It is a homework of me , a student in SYSU
-##Technology Stack
+## Technology Stack
 + Angular 1.x
 + Express
 + Mongodb
